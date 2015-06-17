@@ -1,0 +1,40 @@
+.awesome-div{
+  /* add the url of the awesome backgroud :) */
+  background-image: url(http://imagesdie.com/wp-content/uploads/2014/12/awesome-mac-backgrounds-16984-full-hd-wallpaper-desktop-res-iphone-abstract-images-awesome-backgrounds.jpg);
+  /* ijust fixed the height so you can see the background image */
+  height: 1000px;
+}
+
+.white{
+  color: white;
+}
+
+.button-div{
+  padding: 10px 0 20px 20px;
+}
+
+/* Doing something like below will allow us to edit the color of the buttons. */
+
+.btn-purple{
+  color: white;
+  background: rgb(127, 105, 175);
+}
+
+.btn-lime{
+  color: white;
+  background: rgb(0, 170, 12);
+}
+
+.btn-purple{
+  color: white;
+  background: rgb(127, 105, 175);
+}
+
+.btn-black{
+  color: white;
+  background: black;
+}
+
+.special-font{
+  font-family: fantasy;
+}
